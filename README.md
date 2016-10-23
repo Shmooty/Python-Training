@@ -1,2 +1,2 @@
 # Python-Training
-My training grounds for python
+My training grounds for learning python
